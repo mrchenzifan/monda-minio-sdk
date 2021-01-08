@@ -2,6 +2,10 @@
 
 ## 使用方法
 
+```php
+    composer require mondagroup/monda-minio-sdk
+```
+
 1. BucketClient 使用说明
 ```php
     // minio配置信息
